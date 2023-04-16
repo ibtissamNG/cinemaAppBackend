@@ -1,5 +1,5 @@
 
-# CinemaApp using Spring boot (API)
+# CinemaApp using SpringBoot/Angular - Back end(API)
 
 The CinemaApp project simplifies the movie ticket booking process for the movie enthusiasts. With just a few clicks, users can easily browse through an extensive selection of movies and documentaries available in different cities and secure their seats for a hassle-free cinematic experience.
 
